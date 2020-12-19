@@ -1,9 +1,15 @@
+> Fork with minimal changes to build and run on Heroku
+
+![GitHub forks](https://img.shields.io/github/forks/eemp/moodle?label=Fork&style=social)
+
+```
                                  .-..-.
    _____                         | || |
   /____/-.---_  .---.  .---.  .-.| || | .---.
   | |  _   _  |/  _  \/  _  \/  _  || |/  __ \
   * | | | | | || |_| || |_| || |_| || || |___/
     |_| |_| |_|\_____/\_____/\_____||_|\_____)
+```
 
 Moodle - the world's open source learning platform
 
